@@ -27,7 +27,7 @@ A base de dados utilizada contém informações detalhadas dos clientes, tais co
 * Meses desde a última interação
 * Status de cancelamento (1 = cancelou, 0 = assinante)
   
-A base possui 50.000 linhas e onze colunas, estando no formato CSV.
+A base possui 50.000 linhas e 12 colunas, estando no formato CSV.
 
 ### Ferramentas e Bibliotecas Utilizadas
 
